@@ -26,8 +26,8 @@ Seu desafio é **explorar a cidade sem capotar**, desviando de pedestres e curti
 ## 🖼️ Prints do Jogo
 Coloque aqui algumas imagens do jogo em execução:
 
-![Print da Cidade](prints/cidade.png)  
-![Print do Fusca em movimento](prints/fusca.png)  
+![Print da Cidade](prints/jogo1.png)  
+![Print do Fusca em movimento](prints/jogo2.png)  
 
 ---
 
