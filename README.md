@@ -18,23 +18,12 @@ Seu desafio é **explorar a cidade sem capotar**, desviando de pedestres e curti
 ---
 
 ## 📹 Vídeo do Jogo em Execução (Gameplay)
-👉 [Assista ao gameplay aqui](COLOQUE_O_LINK_DO_VIDEO_AQUI)  
-*(Pode ser YouTube, Google Drive ou outro serviço de hospedagem)*
+👉 [Assista ao gameplay aqui](https://drive.google.com/file/d/10Z4Adp-t4Xrn0UzOQ8JeJi5qMNLxsQRC/view?usp=sharing)  
 
 ---
 
 ## 🖼️ Prints do Jogo
-Coloque aqui algumas imagens do jogo em execução:
 
 ![Print da Cidade](prints/jogo1.png)  
 ![Print do Fusca em movimento](prints/jogo2.png)  
 
----
-
-## ✅ Requisitos da Entrega
-- Versionamento do projeto Unity com `.gitignore` configurado  
-- README com:
-  - Descrição e controles  
-  - História  
-  - Vídeo de gameplay  
-  - Prints do jogo  
